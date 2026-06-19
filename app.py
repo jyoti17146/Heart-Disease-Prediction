@@ -75,6 +75,27 @@ st.markdown("""
         border-radius: 8px;
         margin-bottom: 20px;
     }
+    @media (max-width: 768px) {
+        .gradient-title {
+            font-size: 36px !important;
+        }
+        .subtitle {
+            font-size: 14px !important;
+            padding: 0 10px;
+        }
+        .main {
+            padding: 0.5rem 1rem !important;
+        }
+        div.stButton > button {
+            width: 100% !important;
+        }
+        .card-header {
+            font-size: 13px;
+        }
+        .result-box {
+            padding: 18px;
+        }
+    }
     </style>
 """, unsafe_allow_html=True)
 
