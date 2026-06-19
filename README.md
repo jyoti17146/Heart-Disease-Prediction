@@ -37,13 +37,13 @@ https://jyoti17146-heart-disease-prediction-app-vdr1ih.streamlit.app
 
 ## Project Workflow
 
-1. Dataset Collection
-2. Data Preprocessing & Feature Scaling
-3. Model Training & Evaluation
-4. Performance Comparison
-5. Best Model Selection
-6. Streamlit Web App Development
-7. Cloud Deployment
+* Dataset Collection
+* Data Preprocessing & Feature Scaling
+* Model Training & Evaluation
+* Performance Comparison
+* Best Model Selection
+* Streamlit Web App Development
+* Cloud Deployment
 
 ## Results
 
