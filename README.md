@@ -19,13 +19,16 @@ https://jyoti17146-heart-disease-prediction-app-vdr1ih.streamlit.app
 
 ## Technologies Used
 
-* Python
-* Pandas
-* NumPy
-* Scikit-Learn
-* Streamlit
-* Matplotlib
-* Seaborn
+Google Colab
+Libraries
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Scikit-Learn
+Joblib
+Streamlit
+Streamlit Community Cloud
 
 ## Machine Learning Models
 
