@@ -12,7 +12,7 @@ https://jyoti17146-heart-disease-prediction-app-vdr1ih.streamlit.app
 
 ## Technologies Used
 
--**Language:** Python
+- **Language:** Python
 - **ML Libraries:** Pandas, NumPy, Scikit-learn
 - **Visualization:** Seaborn, Matplotlib
 - **Web App Framework:** Streamlit
