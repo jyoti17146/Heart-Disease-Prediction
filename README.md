@@ -29,19 +29,19 @@ https://jyoti17146-heart-disease-prediction-app-vdr1ih.streamlit.app
 * K-Nearest Neighbors (KNN)
 
 ## Project Flow
-1. **Importing Dependencies** — Loading all required libraries
-2. **Data Collection and Processing** — Loading dataset, exploring shape, info, statistics
-3. **Data Visualization** — Correlation heatmap, target distribution plot
-4. **Splitting Features and Target** — Separating X and Y variables
-5. **Train Test Split** — 80% training, 20% testing with stratification
-6. **Feature Scaling** — StandardScaler for feature normalization
-7. **Model Training** — Training Logistic Regression model
-8. **Model Evaluation** — Accuracy, Classification Report, Confusion Matrix
-9. **Model Comparison** — Comparing 5 ML models
-10. **Building Predictive System** — Predicting heart disease for new input data
-11. **Model Persistence** — Saving the trained model using Pickle
-12. **Web Application Development** — Building an interactive UI with Streamlit
-13. **Deployment** — Hosting the live app on Streamlit Community Cloud
+ **Importing Dependencies** — Loading all required libraries
+ **Data Collection and Processing** — Loading dataset, exploring shape, info, statistics
+ **Data Visualization** — Correlation heatmap, target distribution plot
+ **Splitting Features and Target** — Separating X and Y variables
+ **Train Test Split** — 80% training, 20% testing with stratification
+ **Feature Scaling** — StandardScaler for feature normalization
+ **Model Training** — Training Logistic Regression model
+ **Model Evaluation** — Accuracy, Classification Report, Confusion Matrix
+ **Model Comparison** — Comparing 5 ML models
+ **Building Predictive System** — Predicting heart disease for new input data
+ **Model Persistence** — Saving the trained model using Pickle
+ **Web Application Development** — Building an interactive UI with Streamlit
+ **Deployment** — Hosting the live app on Streamlit Community Cloud
 
 ## Models Compared
 | Model | Training Accuracy | Test Accuracy |
