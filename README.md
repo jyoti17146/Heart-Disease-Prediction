@@ -9,17 +9,10 @@ A Machine Learning-based web application that predicts the likelihood of heart d
 **Web App:**
 https://jyoti17146-heart-disease-prediction-app-vdr1ih.streamlit.app
 
-## Key Features
-
-* Real-time heart disease prediction
-* Interactive Streamlit web interface
-* Multiple ML model comparison
-* Feature scaling and data preprocessing
-* Cloud deployment for public access
 
 ## Technologies Used
 
- **Language:** Python
+-**Language:** Python
 - **ML Libraries:** Pandas, NumPy, Scikit-learn
 - **Visualization:** Seaborn, Matplotlib
 - **Web App Framework:** Streamlit
@@ -49,6 +42,22 @@ https://jyoti17146-heart-disease-prediction-app-vdr1ih.streamlit.app
 11. **Model Persistence** — Saving the trained model using Pickle
 12. **Web Application Development** — Building an interactive UI with Streamlit
 13. **Deployment** — Hosting the live app on Streamlit Community Cloud
+
+## Models Compared
+| Model | Training Accuracy | Test Accuracy |
+|-------|------------------|--------------|
+| Logistic Regression | 84.71% | 78.69% |
+| Random Forest | 100.00% | 77.05% |
+| SVM | 91.32% | 80.33% |
+| **KNN** | **86.78%** | **81.97%** |
+| Decision Tree | 100.00% | 77.05% |
+
+## Best Model
+**KNN (K-Nearest Neighbors)** achieved the highest test accuracy of **81.97%** and was selected 
+as the final model for the deployed application.
+
+> Note: Random Forest and Decision Tree show 100% training accuracy which indicates 
+> overfitting — they memorized the training data but did not generalize well on test data.
 
 ## Web Application Features
 - **Interactive Input Form** — organized into clear sections (Personal Information, 
